@@ -1,0 +1,1 @@
+# haskell_prolog_kol25
